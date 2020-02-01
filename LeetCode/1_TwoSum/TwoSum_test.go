@@ -1,7 +1,7 @@
 package TwoSum_test
 
 import (
-	"github.com/a1008u/GoTraning/LeetCode/TwoSum"
+	"github.com/a1008u/GoTraning/LeetCode/1_TwoSum"
 	"testing"
 )
 
