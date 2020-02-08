@@ -1,4 +1,4 @@
-package PalindromeNumber
+package __PalindromeNumber
 
 func IsPalindrome(x int) bool {
 	// ReverseIntegerする必要ないのはfalse
