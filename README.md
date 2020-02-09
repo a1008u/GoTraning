@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/a1008u/GoTraning/tree/master.svg?style=svg)](https://circleci.com/gh/a1008u/GoTraning/tree/master)
+
 # GoTraning
 Goの理解を深めるためのプロジェクト
 
