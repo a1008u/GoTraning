@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func Test_Main(t *testing.T) {
+func Test_Main2(t *testing.T) {
 	var s bytes.Buffer
 	log.SetOutput(&s)
 	log.SetFlags(0)
